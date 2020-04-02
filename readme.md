@@ -6,4 +6,4 @@
 
 ## 部署
 
-详情看 [https://doc.21yunbox.com/#/deploy-django-app](https://doc.21yunbox.com/#/deploy-django-app)
+详情看 [https://www.21yunbox.com/docs/#/deploy-django-app](https://www.21yunbox.com/docs/#/deploy-django-app)
