@@ -1,8 +1,6 @@
-# Django 在 21云盒子 的样例
+# Django 在 [21云盒子](https://www.21yunbox.com/) 的示例
 
-这是 [21云盒子](http://www.21yunbox.com/) 上创建的 [Django](https://www.djangoproject.com/) 样例。
-
-这个应用已经部署在 [https://django.21yunbox.com](https://django.21yunbox.com)。
+这是 [21云盒子](http://www.21yunbox.com/) 上创建的 [Django](https://www.djangoproject.com/) 示例。
 
 ## 部署
 
